@@ -1,4 +1,4 @@
-#Odin-recipes Project
+# Odin-recipes Project
 
 This is a Learning base project for HTML fundementals 
 which is about to make a HomePage for a website that
